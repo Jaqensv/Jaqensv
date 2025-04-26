@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthieu</h1>
-<h3 align="center">A passionate developer student from 42 in France. Studying Blockchain security.</h3>
+<h3 align="center">A passionate developer student from 42 France. Studying Blockchain security.</h3>
 
 - 🔭 I’m currently working on [Ethernaut CTFs by OpenZeppelin](https://ethernaut.openzeppelin.com/)
 
