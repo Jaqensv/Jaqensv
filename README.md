@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **matthieu.dl@hotmail.fr**
 
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matthieu42&show_icons=true&theme=default)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/matts2729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="matts2729" height="30" width="40" /></a>
