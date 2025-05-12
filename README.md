@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthieu</h1>
 <h3 align="center">A passionate developer student from 42 France. Studying blockchain security.</h3>
 
-- 🔭 I’m currently working on [Ethernaut CTFs by OpenZeppelin](https://ethernaut.openzeppelin.com/)
+- 🔭 I’m currently working on [Ethernaut CTFs by OpenZeppelin](https://ethernaut.openzeppelin.com/) and Ft_Transcendence
 
 - 🌱 I’m currently learning **Solidity, JavaScript, Fastify**
 
