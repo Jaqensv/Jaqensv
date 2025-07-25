@@ -57,13 +57,4 @@
   <text x="500" y="170" text-anchor="middle" class="subtitle subtitle-2 cursor">
     _
   </text>
-
-  <!-- Logos -->
-  <g class="logos">
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" x="360" y="190" height="30" width="30"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" x="400" y="190" height="30" width="30"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" x="440" y="190" height="30" width="30"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="480" y="190" height="30" width="30"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" x="520" y="190" height="30" width="30"/>
-  </g>
 </svg>
