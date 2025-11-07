@@ -1,57 +1,38 @@
+<svg width="1000" height="250" viewBox="0 0 1000 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Matthieu De Langhe — Header</title>
+  <desc id="desc">Titre et sous-titre avec fondu en entrée.</desc>
 
-<svg width="1000" height="250" viewBox="0 0 1000 250" xmlns="http://www.w3.org/2000/svg">
   <style>
+    /* Fallback: visible par défaut */
+    .title, .subtitle { opacity: 1; }
+
     .title {
       font: bold 40px 'Courier New', monospace;
       fill: #f5025b;
-      opacity: 0;
       animation: fadeIn 1s ease-in-out forwards;
+      animation-delay: 0.2s;
+      text-rendering: geometricPrecision;
     }
 
     .subtitle {
       font: 20px 'Courier New', monospace;
-      fill: white;
-      opacity: 0;
+      fill: #ffffff;
       animation: fadeIn 1s ease-in-out forwards;
     }
-
-    .subtitle-1 {
-      animation-delay: 2s;
-    }
-
-    .subtitle-2 {
-      animation-delay: 3s;
-    }
-
-    .cursor {
-      animation: blink 1s step-start infinite;
-      fill: white;
-    }
-
-    .logos {
-      opacity: 0;
-      animation: fadeIn 1s ease-in-out forwards;
-      animation-delay: 4s;
-    }
+    .subtitle-1 { animation-delay: 1.2s; }
 
     @keyframes fadeIn {
-      to {
-        opacity: 1;
-      }
+      from { opacity: 0; }
+      to   { opacity: 1; }
     }
 
-    @keyframes blink {
-      50% {
-        opacity: 0;
-      }
+    /* Respecte la préférence utilisateur (et évite des blocages éventuels) */
+    @media (prefers-reduced-motion: reduce) {
+      .title, .subtitle { animation: none; }
     }
   </style>
 
   <rect width="100%" height="100%" fill="#0d1117"/>
-  <text x="500" y="110" text-anchor="middle" class="title">
-    Matthieu De Langhe
-  </text>
-  <text x="500" y="160" text-anchor="middle" class="subtitle subtitle-1">
-    smart contracts & embedded systems
-  </text>
+  <text x="500" y="110" text-anchor="middle" class="title">Matthieu De Langhe</text>
+  <text x="500" y="160" text-anchor="middle" class="subtitle subtitle-1">smart contracts &amp; embedded systems</text>
 </svg>
