@@ -1,7 +1,8 @@
 <p align="center" style="line-height: 1; padding: 0; margin: 0;">
   <img
     src="https://raw.githubusercontent.com/Jaqensv/Jaqensv/main/header-animated.svg?t=20251107"
-    alt="Matthieu software engineering"
+    alt="Matthieu De Langhe
+    Software Engineering · Systems · AI"
     style="display: block; margin: 0; padding: 0;"
     width="1000" height="250"
   />
